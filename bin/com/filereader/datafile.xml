@@ -1,0 +1,23 @@
+<list>
+
+<resource>
+<rid>8</rid>
+<rtitle>Third book</rtitle>
+<author>PB</author>
+<category>tragedy</category>
+<noofcopies>3</noofcopies>
+<availability>4</availability>
+</resource>
+
+<resource>
+<rid>9</rid>
+<rtitle>Journal</rtitle>
+<author>PW</author>
+<category>romcom</category>
+<noofcopies>3</noofcopies>
+<availability>4</availability>
+</resource>
+
+</list>
+
+
